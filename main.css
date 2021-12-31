@@ -5,7 +5,6 @@ body {
   background: url('assets/freedom.jpg') no-repeat center;
   color: #44454a;
   line-height: 2;
-
 }
 
 body {
@@ -15,9 +14,15 @@ body {
 
 P {
 text-align: center;
-font-size: 240%;
-font-family: 'Julius+Sans+One', sans-serif;
+font-size: 230%;
+font-family: 'Julius Sans One', sans-serif;
 margin: 0 auto;
 padding-top: 4%;
 width: 90%;   
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  font-size: 140%;
 }
